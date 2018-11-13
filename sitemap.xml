@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.ainger.cn/2013/05/25/js-module-loader/</loc>
+    
+    <lastmod>2018-11-13T12:55:19.600Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.ainger.cn/tags/index.html</loc>
     
     <lastmod>2018-11-06T15:11:05.614Z</lastmod>
@@ -33,13 +40,6 @@
     <loc>https://www.ainger.cn/2014/09/22/js-version/</loc>
     
     <lastmod>2018-11-06T15:11:05.599Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.ainger.cn/2013/05/25/js-module-loader/</loc>
-    
-    <lastmod>2018-11-06T15:11:05.597Z</lastmod>
     
   </url>
   
